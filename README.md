@@ -1,6 +1,30 @@
 # OpenGym
 
+*"My mission is to create tools that leverage modern technology in a way that empowers individuals, democratizes knowledge, and bring happiness to everyone."*
+
 OpenGym is a comprehensive fitness and workout tracking application built with Flutter. It features extensive workout logging, a custom exercise catalogue, progress tracking, dynamic UI theming, and an integrated camera/gallery system for tracking physique progress.
+
+## App Showcase
+
+### 📅 Planning & Setup
+| **Home Calendar** | **Workout Planner** | **Routine Builder** |
+| :---: | :---: | :---: |
+| <img src="Screenshots/HomePage.jpg" height="400" alt="Home Page" /> | <img src="Screenshots/WorkoutPlanner.jpg" height="400" alt="Workout Planner" /> | <img src="Screenshots/RoutineBuilder.jpg" height="400" alt="Routine Builder" /> |
+
+### ⚡ Active Workouts
+| **Active Routine** | **Finished Routine** | **Routine Stats Summary** |
+| :---: | :---: | :---: |
+| <img src="Screenshots/ActiveRoutine.jpg" height="400" alt="Active Routine" /> | <img src="Screenshots/FinishedRoutine.jpg" height="400" alt="Finished Routine" /> | <img src="Screenshots/FinishedRoutineStats.jpg" height="400" alt="Finished Routine Stats" /> |
+
+### 📚 Exercise Catalog & Analytics
+| **Exercise Library** | **Exercise Tracking / PRs** | **Goal Progress** |
+| :---: | :---: | :---: |
+| <img src="Screenshots/ExerciseLibrary.jpg" height="400" alt="Exercise Library" /> | <img src="Screenshots/ExerciseTracking.jpg" height="400" alt="Exercise Tracking" /> | <img src="Screenshots/GoalTracking.jpg" height="400" alt="Goal Tracking" /> |
+
+### 📖 History & Guide Book
+| **Workout Logs** | **Guide Book Overview** | **Detailed Guides** |
+| :---: | :---: | :---: |
+| <img src="Screenshots/LogBook.jpg" height="400" alt="Log Book" /> | <img src="Screenshots/GuideBook01.jpg" height="400" alt="Guide Book Home" /> | <img src="Screenshots/GuideBook02.jpg" height="400" alt="Guide Book Details" /> |
 
 ## Project Status
 
@@ -47,7 +71,7 @@ The visual pages and interfaces of the application.
 * `day_overview_screen.dart` - Brief summary view showing what to expect from a workout.
 * `delete_data_screen.dart` - Utility page for erasing local databases.
 * `gallery_picker_screen.dart` - UI to browse physique media and albums.
-* `guide_book_screen.dart` / `guide_detail_screen.dart` - Offline documentation explaining how to use the app.
+* `guide_book_screen.dart` / `guide_detail_screen.center` - Offline documentation explaining how to use the app.
 * `home_screen.dart` - The main calendar view orchestrating scheduled tasks.
 * `import_conflict_screen.dart` / `import_export_screen.dart` - Screens for managing JSON data backup and restoring.
 * `library_screen.dart` - Displaying the catalog of Custom Exercise Definitions.
