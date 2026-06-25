@@ -1,6 +1,6 @@
 # OpenGym
 
-*"My mission is to create tools that leverage modern technology in a way that empowers individuals, democratizes knowledge, and bring happiness to everyone."*
+*"My mission is to create tools that leverage modern technology in a way that empowers individuals, democratizes knowledge, and brings happiness to everyone."*
 
 OpenGym is a comprehensive fitness and workout tracking application built with Flutter. It features extensive workout logging, a custom exercise catalogue, progress tracking, dynamic UI theming, and an integrated camera/gallery system for tracking physique progress.
 
